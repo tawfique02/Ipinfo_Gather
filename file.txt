@@ -11,4 +11,4 @@ python encoded_Ipgeo.py -i 8.8.8.8 --geolocation --whois --asn --basic
 python3 encoded_Ipgeo.py -i 8.8.8.8 --geolocation --whois --asn --basic
 python encoded_Ipgeo.py-i 8.8.8.8 --geolocation --whois --asn --basic --output ip_info.json
 
-//please,check this command to run this t
+//please, check this command to run this tool. 
